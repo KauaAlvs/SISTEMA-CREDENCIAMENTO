@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20PAPA%20MIKE%20SA%C3%9ADE.png" alt="Logo Papa Mike Saúde" width="250"/>
-  <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20CEOZ.png?updatedAt=1779300255348" alt="Logo CEOZ" width="250"/>
+  <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20CEOZ.png?updatedAt=1779300255348" alt="Logo CEOZ" width="350"/>
   
   # 🛡️ Papa Mike Saúde | 2º CEOZ Sistema de Credenciamento & Auditoria
   
