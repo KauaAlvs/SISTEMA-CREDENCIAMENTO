@@ -2,7 +2,7 @@
   <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20PAPA%20MIKE%20SA%C3%9ADE.png" alt="Logo Papa Mike Saúde" width="250"/>
   <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20CEOZ.png?updatedAt=1779300255348" alt="Logo CEOZ" width="250"/>
   
-  # 🛡️ Papa Mike | Sistema de Credenciamento & Auditoria
+  # 🛡️ Papa Mike Saúde | 2º CEOZ Sistema de Credenciamento & Auditoria
   
   **Segurança e agilidade na porta do seu evento.** <br>
   Plataforma de alta performance para validação de ingressos via código de barras, com monitoramento em tempo real e auditoria completa de acessos.
