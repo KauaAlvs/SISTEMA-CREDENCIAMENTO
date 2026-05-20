@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20PAPA%20MIKE%20SA%C3%9ADE.png" alt="Logo Papa Mike Saúde" height="120"/>
-  <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20CEOZ.png?updatedAt=1779300255348" alt="Logo CEOZ" height="120"/>
+  <img src="https://ik.imagekit.io/1t4v46udu/SA%C3%9ADE/LOGO%20CEOZ.png?updatedAt=1779300255348" alt="Logo CEOZ" height="300"/>
 </div>
 
 # 🛡️ Papa Mike Saúde | 2º CEOZ Sistema de Credenciamento & Auditoria
